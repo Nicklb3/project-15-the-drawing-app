@@ -1,1 +1,1 @@
-# project-15-the-drawing-app
+# <h1 align="center">project-15-the-drawing-app</h1>
